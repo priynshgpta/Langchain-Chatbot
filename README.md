@@ -1,1 +1,1 @@
-# langchain-chatbot
+# Langchain Chatbot for BrainLox
