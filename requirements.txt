@@ -1,0 +1,7 @@
+flask
+langchain
+openai
+beautifulsoup4
+requests
+faiss-cpu
+chromadb
